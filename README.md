@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mnewing
 - 👀 I’m interested in programming as a mental exercise, i love the challange of finding the most elegant solution
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on WordPress
+- 🌱 I’m looking to collaborate on WordPress
 - 📫 How to reach me <a href='https://www.linkedin.com/in/mary-newing-08ab051/' _target=blank>Linked</a>
 
 <!---
